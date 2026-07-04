@@ -1,6 +1,6 @@
 # Wesley Bradley Paul Group Website Project
 See also: [[../../wiki/wesley-bradley-paul-group|Wesley Bradley Paul Group wiki entry]]
-**Logo:** [[../../wiki/wesley-bradley-paul-group-logo|Wesley Bradley Paul Group Logo]] (brushed metal grid buttons — W B P G)
+**Logo:** ![Wesley Bradley Paul Group Logo](assets/wesley-bradley-paul-group-logo.png) — [[../../wiki/wesley-bradley-paul-group-logo|wiki entry]] (brushed metal grid buttons — W B P G)
 
 
 

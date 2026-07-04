@@ -13,6 +13,6 @@ Brushed metallic 2×2 grid of rounded square buttons with bold black initials:
 
 **Usage:** Primary logo for the business consulting website and materials. High-resolution PNG suitable for web and print.
 
-**Source file:** `wesley-bradley-paul-group-logo.png` (moved to /archive)
+**Source file:** `assets/wesley-bradley-paul-group-logo.png` (copied to project + wiki/assets; archive copy preserved)
 
 **Related project:** [[../projects/wesley-bradley-paul-group-project/README|Wesley Bradley Paul Group Website Project]]

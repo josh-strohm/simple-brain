@@ -14,5 +14,5 @@ Read everything in `/raw`. Update or create matching markdown files in `/wiki` s
 - For **images** (PNG, JPG, etc.): Use vision analysis tools to generate a clear description, alt text, and any visible text/logos. Create a dedicated wiki entry describing the asset (purpose, visual details, dimensions if available, usage).
 - For **other file types** (PDFs already handled, videos, audio, archives, etc.): Note file type, size, and infer purpose from filename/context. Create a concise wiki entry.
 - Always produce a `.md` wiki entry for discoverability and linking, even for binary assets.
-- If the asset belongs to a project, add a reference or embed in the relevant `/projects/<name>/README.md` (e.g. "Logo: ![logo](relative/path)").
-- Preserve original filename when moving to `/archive/`.
+- **Project assets**: If the file relates to a `/projects/<name>/` folder, **copy** the file into that project (ideally under `assets/` or the project root) **and** copy it into `wiki/assets/` so the asset exists inside the wiki directory as well. Update the project README with a relative link or image embed pointing to the local copy.
+- Preserve original filename when moving to `/archive/`. The archive copy remains the permanent processed record.
