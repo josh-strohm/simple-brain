@@ -1,4 +1,6 @@
 # Wesley Bradley Paul Group Website Project
+See also: [[../../wiki/wesley-bradley-paul-group|Wesley Bradley Paul Group wiki entry]]
+
 
 **Status:** Documentation (July 03, 2026)  
 **Client:** Omar Paul Strohm, Managing Partner & Founder  
@@ -56,5 +58,5 @@ Omar Paul Strohm
 - Add case study placeholders/testimonials once engagements begin
 - Verify calendar integration and form conversion tracking
 
-Source document: `wesley-bradley-paul-group-project.pdf` (in /raw)  
+Source document: `wesley-bradley-paul-group-project.pdf` (moved to /archive)  
 Design & tone: Clean, professional, grid-based, dark navy headers, ample white space, direct/confident messaging free of jargon.
